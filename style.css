@@ -135,7 +135,7 @@ article section a:hover{border-color: var(--green75);}
     .col-t-10{grid-column: span 10;}
     .col-t-11{grid-column: span 11;}
     .col-t-12{grid-column: span 12;}
-    header nav ul{gap: 0 2rem;}
+    header nav ul{gap: 0 1rem;}
     .wrap-1 .ico-con{flex-flow: column wrap; align-items: center; gap: 2rem;}
     .proj-col:nth-child(2){border-right: none;}
     article section .provide{gap: 1.5rem;}
